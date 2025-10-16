@@ -4,7 +4,7 @@ Edit your [myTeardrop](https://myveryownteardrop.xyz/) savefile.
 
 # Website
 
-https://myteardropeditor.pages.dev/
+https://myteardrop-savefile-editor.pages.dev/
 
 # Known issues
 
